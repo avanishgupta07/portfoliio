@@ -1858,3 +1858,6 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+.profile{
+  border-radius: 30px;
+}
